@@ -1,9 +1,14 @@
-# api documentation for  [express-xml-bodyparser (v0.3.0)](https://github.com/macedigital/express-xml-bodyparser)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-xml-bodyparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-xml-bodyparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-xml-bodyparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-xml-bodyparser)
+# npmdoc-express-xml-bodyparser
+
+#### api documentation for  [express-xml-bodyparser (v0.3.0)](https://github.com/macedigital/express-xml-bodyparser)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-xml-bodyparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-xml-bodyparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-xml-bodyparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-xml-bodyparser)
+
 #### Simple XML body parser connect/express middleware
 
-[![NPM](https://nodei.co/npm/express-xml-bodyparser.png?downloads=true)](https://www.npmjs.com/package/express-xml-bodyparser)
+[![NPM](https://nodei.co/npm/express-xml-bodyparser.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-xml-bodyparser)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-express-xml-bodyparser/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-express-xml-bodyparser_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-express-xml-bodyparser/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-express-xml-bodyparser/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-express-xml-bodyparser/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-express-xml-bodyparser/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-express-xml-bodyparser/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-express-xml-bodyparser/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Matthias Adler",
-        "email": "macedigital@gmail.com",
         "url": "http://matthiasadler.info/"
     },
     "bugs": {
@@ -85,13 +89,11 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "macedigital",
-            "email": "macedigital@gmail.com"
+            "name": "macedigital"
         }
     ],
     "name": "express-xml-bodyparser",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/macedigital/express-xml-bodyparser.git"
@@ -104,17 +106,6 @@
     "version": "0.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module express-xml-bodyparser](#apidoc.module.express-xml-bodyparser)
-1.  object <span class="apidocSignatureSpan">express-xml-bodyparser.</span>regexp
-
-
-
-# <a name="apidoc.module.express-xml-bodyparser"></a>[module express-xml-bodyparser](#apidoc.module.express-xml-bodyparser)
 
 
 
